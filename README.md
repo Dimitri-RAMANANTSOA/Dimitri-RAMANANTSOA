@@ -1,3 +1,8 @@
+# About Me :
+- 🔭 I'm currently looking for a job as DevOps / DevSecOps
+- 💻 I’m currently building a Discord bot for a Youtuber (Indomitus 40K)
+- 🌱 I’m currently learning more about BlockChain.
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitri-ramanantsoa/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimitri.rama.pro@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DimitriRama) [![Twitter](https://img.shields.io/twitter/follow/Watap3dedam?logo=Twitter&style=for-the-badge)](https://twitter.com/Watap3dedam)
 
