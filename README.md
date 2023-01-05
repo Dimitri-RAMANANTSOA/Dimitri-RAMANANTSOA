@@ -1,5 +1,5 @@
 # About Me :
-- 🔭 I'm currently looking for a job as DevOps / DevSecOps
+- 🔭 I am currently working as a consulting engineer in cybersecurity
 - 💻 I’m currently building a Discord bot for a Youtuber (Indomitus 40K)
 - 🌱 I’m currently learning more about BlockChain.
 
